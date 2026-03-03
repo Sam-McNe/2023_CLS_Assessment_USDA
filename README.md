@@ -54,6 +54,7 @@ This analysis relies on several R packages and statistical methods. Please cite 
 - R and Packages: This analysis was performed in R v. 4.4.1. A full list of packages used and their citations is generated within the R Markdown document using the grateful package.
 
 ## Contact
-Sam McNeill
-Samuel.McNeill@usda.gov
+
+**Sam McNeill**  
+Samuel.McNeill@usda.gov  
 USDA Agricultural Research Service
