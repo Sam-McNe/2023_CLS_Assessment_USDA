@@ -34,8 +34,8 @@ install.packages(c("ARTool", "emmeans", "flextable", "knitr", "lme4", "performan
 ## How to Run the Analysis
 1. Clone or download this repository to your local machine.
 2. Open the 2023_analysis.Rproj file in RStudio. This will set the correct working directory.
-3. Ensure all required packages (listed above) are installed.
-4. Open the 2023_Cerc_PDMR_analysis.Rmd file in RStudio.
+3. Open the 2023_Cerc_PDMR_analysis.Rmd file in RStudio.
+4. Ensure all required packages (listed above) are installed.
 5. Click the Knit button at the top of the script editor. This will execute the entire analysis and generate the final report (2023_analysis.docx) in the output folder.
 
 ## Methodology
