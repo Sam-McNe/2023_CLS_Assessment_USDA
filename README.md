@@ -36,7 +36,7 @@ install.packages(c("ARTool", "emmeans", "flextable", "knitr", "lme4", "performan
 2. Open the 2023_analysis.Rproj file in RStudio. This will set the correct working directory.
 3. Open the 2023_Cerc_PDMR_analysis.Rmd file in RStudio.
 4. Ensure all required packages (listed above) are installed.
-5. Click the Knit button at the top of the script editor. This will execute the entire analysis and generate the final report (2023_analysis.docx) in the output folder.
+5. Click the Knit button at the top of the script editor. This will execute the entire analysis and generate the final report (2023_Cerc_PDMR_analysis.docx) in the output folder.
 
 ## Methodology
 - Data Cleaning: The raw data is loaded and cleaned using the tidyverse package. Lines with missing data are filtered out, and entry numbers are joined with their corresponding names.
