@@ -28,7 +28,7 @@ To run this analysis, you will need:
 *   **R Packages:** The following packages are required. You can install them all by running the command below in your R console:
 
 ```R
-install.packages(c("ARTool", "emmeans", "flextable", "knitr", "lme4", "performance", "rmarkdown", "rstatix", "tidyverse"))
+install.packages(c("ARTool", "emmeans", "flextable", "knitr", "lme4", "performance", "rmarkdown", "ggplot2", "tidyverse", "viridis"))
 ```
 
 ## How to Run the Analysis
